@@ -5,3 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 altinity/clickhouse-server:25.3.6.10034.altinitystable
+chrislusf/seaweedfs:3.97_large_disk
