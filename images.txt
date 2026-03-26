@@ -6,3 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 altinity/clickhouse-server:25.3.6.10034.altinitystable
 chrislusf/seaweedfs:3.97_large_disk
+confluentinc/cp-kafka:7.6.6
+chrislusf/seaweedfs:4.09_large_disk
