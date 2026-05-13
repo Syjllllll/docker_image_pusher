@@ -4,9 +4,5 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-altinity/clickhouse-server:25.3.6.10034.altinitystable
-chrislusf/seaweedfs:3.97_large_disk
-confluentinc/cp-kafka:7.6.6
-chrislusf/seaweedfs:4.09_large_disk
-carlasim/carla:0.9.14
+
 nvidia/cuda:11.0-base
